@@ -41,8 +41,9 @@ convertToRoman(1994); // "MCMXCIV"
 
 ```
 roman-numeral-converter/
-├── index.html        # (optional, if using simple UI)
-├── script.js         # contains the convertToRoman function
+├── index.html
+├── script.js
+|-- styles.css
 └── README.md
 ```
 
